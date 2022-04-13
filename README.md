@@ -8,7 +8,7 @@
 cornelius57/cornelius57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi. this is Conrelius57, currently an undergrads at NTUST
+Hi. this is Cornelius57, currently an undergrads at NTUST
 
 At the time, the github is dedicated to me learing lectures, producing notes regrads to classes.
 
